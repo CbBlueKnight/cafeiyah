@@ -15,7 +15,7 @@
             <a href="#">Stories</a>
             <a href="#">Menu</a>
             <a href="#">Location</a>
-            <button class="order-btn">Order Now</button>
+            <a href="menu.php"><button class="order-btn">Order Now</button></a>
         </nav>
     </header>
 
@@ -204,7 +204,6 @@ document.addEventListener('DOMContentLoaded', function() {
   const gap = 5; // Match this with your CSS gap
   const scrollAmount = (card ? card.offsetWidth : 280) + gap;
   const scrollIntervalTime = 3000; // 3 seconds
-
   let maxScrollLeft;
 
   function updateMaxScroll() {
