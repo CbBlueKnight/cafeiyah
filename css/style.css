@@ -21,7 +21,7 @@
     justify-content: space-between;
     padding: 20px 40px;
     align-items: center;
-    color: var(--button-bg);
+    color: var(--primary-orange);
 }
 
 .logo {
