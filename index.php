@@ -168,14 +168,14 @@
             display: flex;
             justify-content: space-around;
             padding: 1rem 0;
-            background-color: var(--light-orange);
+            background-color: #3a322b;
             color: white;
             font-weight: 500;
             text-align: center;
         }
         
         .rice-meals-bar {
-            background-color: var(--dark-orange);
+            background-color: #3a322b;
         }
         
         /* Content Sections */
